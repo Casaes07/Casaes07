@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/casaes7/)
 
-![Casaes GitHub stats](https://github-readme-stats.vercel.app/api?username=Casaes7&show_icons=true&theme=dracula)
+![Casaes GitHub stats](https://github-readme-stats.vercel.app/api?username=Casaes07&show_icons=true&theme=dracula)
 
 ## Tecnologias usadas no dia a dia
 
